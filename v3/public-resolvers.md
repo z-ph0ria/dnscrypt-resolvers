@@ -745,6 +745,12 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.
 
 sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMTozMjU5OjU0MDA6MDJmZjpmZTcxOjBiYzldOjg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
+## dnscrypt.se
+
+No filter, no logs, DNSSEC. Running on 53, 443. IPv4 & IPv6.
+Hosted in Sweden by dnscrypt.se / z-ph0ria
+
+sdns://AQcAAAAAAAAADDE0MS4xMzYuMC4zNSB9_mjLyMrvci-9zT47dHiH7mdRL2JkBvN4EjAiZtQmphRjZXJ0LWRucy5kbnNjcnlwdC5zZQ
 
 ## dnscrypt-sg-blahdns-ipv4
 
