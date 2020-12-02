@@ -704,6 +704,13 @@ https://dns.sb
 sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
 
 
+## dnscrypt.se
+DNSSEC server hosted in Sweden @ dnscrypt.se
+No log, No filter. DNNSEC.
+
+sdns://AQQAAAAAAAAADDE0MS4xMzYuMC4zNSAHDGi8CBORY5RmR7X-73d1mWhp2Cl1NJo_DPyvs-I1ABsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuc2U
+
+
 ## dnscrypt-de-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
@@ -712,8 +719,7 @@ sdns://AQMAAAAAAAAAEjc4LjQ2LjI0NC4xNDM6ODQ0MyBThOgUQxQpPlbdGxQKHvFyrUe9uheZyJVyl
 
 
 ## dnscrypt-de-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By -https://blahdns.com/
 
 sdns://AQMAAAAAAAAAG1syYTAxOjRmODpjMTc6ZWM2Nzo6MV06ODQ0MyBThOgUQxQpPlbdGxQKHvFyrUe9uheZyJVylJU9A061xxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
 
