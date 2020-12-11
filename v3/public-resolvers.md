@@ -704,11 +704,13 @@ https://dns.sb
 sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
 
 
-## dnscrypt.se
-DNSSEC server hosted in Sweden @ dnscrypt.se
-No log, No filter. DNNSEC.
+## dnscrypt-se
 
-sdns://AQQAAAAAAAAADDE0MS4xMzYuMC4zNSAHDGi8CBORY5RmR7X-73d1mWhp2Cl1NJo_DPyvs-I1ABsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuc2U
+Secure resolver server hosted in Latvia @ dnscrypt.se.
+No log, No filter. DNNSEC. 100% Anonymized. 
+Good speed to Sweden, low latency.
+
+sdns://AQcAAAAAAAAADDE0MS4xMzYuMC4zNSDYuCQxgLqEsaBYuO92hSe2qPdIaagAPaldSxcmYWceGBsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuc2U
 
 
 ## dnscrypt-de-blahdns-ipv4
